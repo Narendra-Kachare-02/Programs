@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 
 // typedef Old_Name New_Name ;
@@ -5,6 +6,10 @@
 typedef const int CINT;
 
 typedef unsigned int UINT;
+
+/////////////////////////////////////////////////
+// Entry point function
+/////////////////////////////////////////////////
 
 int main()
 {
